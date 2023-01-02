@@ -28,7 +28,7 @@
         var toBuyItems = [
             { name: "Bananas", quantity: 10 },
             { name: "Apples", quantity: 4 },
-            { name: "Cookies", quantity: 2 },
+            { name: "Cookies", quantity: 3 },
             { name: "Eggs", quantity: 12 },
             { name: "Milk", quantity: 1 }
         ];
